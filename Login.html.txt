@@ -1,0 +1,27 @@
+<html>
+<head> 
+	<TITLE>LOGIN PAGE</TITLE>
+	<link rel="stylesheet" type="text/css" href="mystyle.css"/> 
+	<style> 
+	h5{
+		color:"yellow"
+		} 
+	</style>
+</head> 
+<body> 
+<h1>LOGIN PAGE....!</h1> 
+<label>USER NAME</label>
+ <input type="text"></br>
+ <label>PASSWORD</label> 
+ <input type="password"></br>
+ <input type="button" value="SUBMIT"> 
+ <p id="one">My first P tag</p> 
+ <div id="group"> 
+ <h1 class="abc">My H1 tag</h1>
+ <p>My second P tag</p> 
+ <h5 style="color:green">I am the Star</h5> 
+ </div> 
+ UserName: <input type= "text" name = "a1">
+ <input type= "submit">
+ </body> 
+ </html>
